@@ -206,6 +206,7 @@ Samsung:
 * __Exhilarate (AT&T) (sgh-1577) :__ InkSlinger420
 * __Fascinate (fascinatemtd) :__ Unjustified Dev
 * __Galaxy Ace II (codina) :__ iiD4x
+* __Galaxy Exhibit (codinalte) :__ Unjustified Dev
 * __Galaxy Express (ATT) (expressatt) :__ Papa Smurf151
 * __Galaxy Mega 6.3 (GSM) (melius3gxx) :__ Grarak
 * __Galaxy Mega 6.3 (LTE) (meliusltexx) :__ Grarak
@@ -248,6 +249,7 @@ Samsung:
 * __Galaxy S III (GSM) (i9300) :__ garwedgess
 * __Galaxy S III (LTE) (i9305) :__ MaDc0w
 * __Galaxy S III (Metro PCS) (d2lte) :__ Papa Smurf151
+* __Galaxy S III (Mini) (golden) :__ Unjustified Dev
 * __Galaxy S III (Sprint) (d2lte) :__ Papa Smurf151
 * __Galaxy S III (C-Spire) (d2lte) :__ Papa Smurf151
 * __Galaxy S III (T-Mobile) (d2lte) :__ Papa Smurf151
@@ -276,10 +278,11 @@ Samsung:
 * __Galaxy Tab 2 7" (P3110) :__ Nick0703
 * __Galaxy Tab 2 10" (p5100) :__ pvyParts
 * __Galaxy Tab 2 10" (P5110) :__ pvyParts
-* __Mesmerize (mesmerizemtd) :__ Unjustifed Dev
+* __Galaxy X Cover 2" (skomer) :__ Unjustified Dev
+* __Mesmerize (mesmerizemtd) :__ Unjustified Dev
 * __Nexus S (crespo) :__ berni987654321
 * __Nexus 10 (manta) :__ zyonee, apascual89
-* __Showcase (showcasemtd) :__ Unjustifed Dev
+* __Showcase (showcasemtd) :__ Unjustified Dev
 
 
 Sony:

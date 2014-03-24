@@ -22,6 +22,7 @@
   <device name="a700"/>
   <device name="apexqtmo"/>
   <device name="captivatemtd"/>
+  <device name="codinalte"/>
   <device name="crespo"/>
 <!--  <device name="d803"/> -->
   <device name="d2lte"/>
@@ -50,6 +51,7 @@
   <device name="galaxysbmtd"/>
   <device name="galaxysl"/>
   <device name="galaxysmtd"/>
+  <device name="golden"/>
   <device name="grouper"/>
   <device name="hammerhead"/>
   <device name="hercules"/>
@@ -116,6 +118,7 @@
   <device name="serrano3gxx"/>
   <device name="serranoltexx"/>
 <!--  <device name="showcasemtd"/> -->
+  <device name="skomer"/>
   <device name="skyrocket"/>
   <device name="spyder"/>
   <device name="superior"/>

@@ -19,7 +19,7 @@
     </vendor>
     <vendor Name="HTC">
         <device FullName="Amaze 4G" CodeName="ruby"/>
-	<device FullName="Desire Z" CodeName="vision"/>
+	   <device FullName="Desire Z" CodeName="vision"/>
         <device FullName="Droid DNA" CodeName="dlx"/>
         <device FullName="Droid Incredible 4G" CodeName="fireball"/>
         <device FullName="Evo LTE" CodeName="jewel"/>
@@ -94,7 +94,8 @@
         <device FullName="Epic 4G Touch (Sprint)" CodeName="d710"/>
         <device FullName="Exhilarate (ATT)" CodeName="sgh-1577"/>
         <device FullName="Fascinate" CodeName="fascinatemtd"/>
-	<device FullName="Galaxy Ace II" CodeName="codina"/>
+	   <device FullName="Galaxy Ace II" CodeName="codina"/>
+        <device FullName="Galaxy Exhibit" CodeName="codinalte"/>
         <device FullName="Galaxy Express (ATT)" CodeName="expressatt"/>
         <device FullName="Galaxy Mega (GSM)" CodeName="melius3gxx"/>
         <device FullName="Galaxy Mega (LTE)" CodeName="meliusltexx"/>
@@ -124,7 +125,7 @@
         <device FullName="Galaxy Player 4.0" CodeName="ypg1"/>
         <device FullName="Galaxy Player 5.0" CodeName="venturi"/>
         <device FullName="Galaxy Premier" CodeName="superior"/>
-	<device FullName="Galaxy S Advance" CodeName="janice"/>
+	   <device FullName="Galaxy S Advance" CodeName="janice"/>
         <device FullName="Galaxy S I" CodeName="galaxysmtd"/>
         <device FullName="Galaxy S II" CodeName="i9100"/>
         <device FullName="Galaxy S II G" CodeName="i9100G"/>
@@ -136,13 +137,14 @@
         <device FullName="Galaxy S III (GSM)" CodeName="i9300"/>
         <device FullName="Galaxy S III (LTE)" CodeName="i9305"/>
         <device FullName="Galaxy S III (Metro PCS)" CodeName="d2lte"/>
+        <device FullName="Galaxy S III (Mini)" CodeName="golden"/>
         <device FullName="Galaxy S III (Sprint)" CodeName="d2lte"/>
         <device FullName="Galaxy S III (C-Spire)" CodeName="d2lte"/>
         <device FullName="Galaxy S III (T-Mobile)" CodeName="d2lte"/>
         <device FullName="Galaxy S III (T-Mobile w/ Keyboard)" CodeName="apexqtmo"/>
         <device FullName="Galaxy S III (US Cellular)" CodeName="d2lte"/>
         <device FullName="Galaxy S III (Verizon)" CodeName="d2lte"/>
-	<device FullName="Galaxy S IV (GSM)" CodeName="i9500"/>
+	   <device FullName="Galaxy S IV (GSM)" CodeName="i9500"/>
         <device FullName="Galaxy S IV (ATT)" CodeName="jflte"/>
         <device FullName="Galaxy S IV (Canada)" CodeName="jflte"/>
         <device FullName="Galaxy S IV (Cricket)" CodeName="jflte"/>
@@ -164,6 +166,7 @@
         <device FullName="Galaxy Tab 2 7" CodeName="p3100/P3110"/>
         <device FullName="Galaxy Tab 2 10" CodeName="p5100/P5110"/>
         <device FullName="Galaxy W" CodeName="i8150"/>
+        <device FullName="Galaxy X Cover 2" CodeName="skomer"/>
         <device FullName="Mesmerize" CodeName="mesmerizemtd"/>
         <device FullName="Nexus S" CodeName="crespo"/>
         <device FullName="Nexus 10" CodeName="manta"/>

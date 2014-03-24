@@ -1,0 +1,32 @@
+[
+  {
+    "account":    "Team-Exhibit",
+    "repository": "android_device_samsung_skomer",
+    "target_path": "device/samsung/skomer",
+    "revision":    "pac-4.4"
+  },
+  {
+    "account":    "Team-Exhibit",
+    "repository": "android_kernel_samsung_skomer",
+    "target_path": "kernel/samsung/skomer",
+    "revision":    "kk44"
+  },
+  {
+    "account":    "Team-Exhibit",
+    "repository": "android_device_samsung_codinalte",
+    "target_path": "device/samsung/codinalte",
+    "revision":    "pac-4.4"
+  },
+  {
+    "account":    "PAC-man",
+    "repository": "android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "revision":    "pac-4.4"
+  },
+  {
+    "account":    "Pinky-Inky-and-Clyde",
+    "repository": "proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "revision":    "cm-11.0"
+  }
+]
